@@ -1,9 +1,9 @@
 # android-lab-scripts
 Scripts to automate Android emulator setup for security testing (Burp cert install, Magisk root, AVD fixes)
 
-rootAVD-certify.sh ---> works on andriod 10 and above (with playstore image)
-Android_Cert_Installer.sh--> works on andriod 9 and below (No_PlayStore Image)
-fix_android_avd.sh--> fixes avd issues eg `emulator -list-avds` is not working
+- rootAVD-certify.sh ---> works on andriod 10 and above (with playstore image)
+- Android_Cert_Installer.sh--> works on andriod 9 and below (No_PlayStore Image)
+- fix_android_avd.sh--> fixes avd issues eg `emulator -list-avds` is not working
 
 # rootAVD-certify.sh (v1.1.50)
 
